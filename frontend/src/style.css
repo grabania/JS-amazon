@@ -36,6 +36,18 @@ header a {
 	text-decoration: none;
 }
 
+header a:hover {
+    color: #f08040;
+}
+
 .brand a {
 	font-size: 3rem;
+}
+
+footer {
+    background-color: #203040;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
 }
