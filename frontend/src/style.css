@@ -37,7 +37,7 @@ header a {
 }
 
 header a:hover {
-    color: #f08040;
+	color: #f08040;
 }
 
 .brand a {
@@ -45,9 +45,9 @@ header a:hover {
 }
 
 footer {
-    background-color: #203040;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: #ffffff;
+	background-color: #203040;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: #ffffff;
 }
