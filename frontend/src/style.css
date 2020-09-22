@@ -60,3 +60,11 @@ footer {
 	padding: 0;
 	justify-content: center;
 }
+
+.products li {
+	flex: 0 1 30rem;
+	margin: 1rem;
+	margin-bottom: 0;
+	height: 42rem;
+	border-top: 0.2rem #e0e0e0 solid;
+}
