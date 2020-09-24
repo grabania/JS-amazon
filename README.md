@@ -27,7 +27,7 @@
 4).Render Dynamic Home Screen
 1. create data.js
 2. export an array of 6 products
-3. create screen/HomeScreen.js
+3. create screens/HomeScreen.js
 4. export HomeScreen as an object with render() method
 5. implement render
 6. import data.js
