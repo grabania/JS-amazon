@@ -4,8 +4,9 @@ const HomeScreen = {
 		const { products } = data;
 		return `
         <ul class="products">
-            ${products.map(
-				(product) => `
+            ${products
+				.map(
+					(product) => `
             <li>
                 <div class="product">
                     <a href="/#/product/${product._id}">
@@ -17,15 +18,17 @@ const HomeScreen = {
                         </a>
                     </div>
                     <div class="product-brand">
-                        ${product.brand}
+                    ${product.brand}
                     </div>
                     <div class="product-price">
-                        ${product.price}
+                    $${product.price}
                     </div>
-                </div>
-            </li>
+                    </div>
+                </li>
                 `
-			)}`;
+				)
+				.join('\n')}
+    `;
 	}
 };
 export default HomeScreen;
