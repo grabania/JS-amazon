@@ -1,4 +1,5 @@
 import HomeScreen from './screens/HomeScreen.js';
+import ProductScreen from './screens/ProductScreen.js';
 const routs = {
 	'/': HomeScreen,
 	'/product/:id': ProductScreen
