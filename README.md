@@ -84,7 +84,7 @@
 11. npm install axios
 12. change fetch to axios in HomeScreen
 
-9).Install Babel For ES6 Syntax
+9). Install Babel For ES6 Syntax
 1. npm install -D babel core, cli, node, preset-env
 2. Create .babelrc and set presets to @babel/preset-env
 3. npm install -D nodemon
@@ -92,3 +92,16 @@
 5. server.js
 6. convert require to import in server.js
 7. npm start
+
+10). Enable Code Linting
+1. npm install -D eslint
+2. install VSCode eslint extension
+3. create .eslintrc and set module.exports for env to node
+4. Set VSCode setting for editor.codeActionsOnSave source. 
+5. fixAll.eslint to true
+6. check result for linting error
+7. npm install eslint-config-airbnb-base and 
+8. eslint-plugin-import
+9. set extends to airbnb-base
+10. set parserOptions to ecmaVersion 11 and sourceType to module
+11. set rules for no-console to 0 to ignore linting error
