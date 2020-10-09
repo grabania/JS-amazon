@@ -128,6 +128,7 @@
 1. get product id from request
 2. implement /api/product/:id api
 3. send Ajax request to product api
+
 14). Product Screen UI
 1. create back to result link
 2. create div.details with 3 columns
@@ -136,3 +137,9 @@
 5. column 3 form product action
 6. style .details and all columns
 7. create add to cart button with add-button id
+
+15). Product Screen Action
+1. after_render() to add event to the button
+2. add event handler for the button
+3. redirect user to cart/:product_id
+4. implement after_render in index.js
