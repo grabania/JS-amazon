@@ -239,3 +239,19 @@
 12. button id message-overlay-close-button OK
 13. add class active to it
 14. add event listener for button to call callback
+
+24). Register Screen
+1. create RegisterScreen.js
+2. add form elements
+3. after_render handle form submit
+4. create register request in frontend
+5. create register api in backend
+
+25). User Profile Screen
+1. create ProfileScreen.js
+2. add form elements
+3. after_render handle form submit
+4. create profile update request in frontend
+5. create profile update api in backend
+6. create isAuth in utils.js and use in update profile
+7. implement sign out
