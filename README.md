@@ -299,3 +299,10 @@
 2. create api for getMyOrders
 3. show orders in profile screen
 4. style orders
+
+32). Admin Dashboard UI
+1. Header.js
+2. if user is admin show Dashboard
+3. create DashboardScreen
+4. create DashboardMenu
+5. Style dashboard
