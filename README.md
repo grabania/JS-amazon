@@ -311,3 +311,10 @@
 1. create ProductListScreen.js
 2. show products with edit and delete button
 3. show create product button
+
+34). Create Product
+1. create product model
+2. implement create product route
+3. create product function in api.js
+4. call create product function in ProductListScreen
+5. redirect to edit product
