@@ -266,3 +266,14 @@
 7. copy shipping screen and as payment screen
 8. define getPayment and setPayment
 9. redirect user to PlaceOrder.js
+
+27). PlaceOrder Screen UI
+1. create PlaceOrder.js
+2. style elements
+
+28). PlaceOrder Screen Action
+1. handle place order button click
+2. createOrder api
+3. create orderModel
+4. create orderRouter
+5. create post order route
