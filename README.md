@@ -318,3 +318,9 @@
 3. create product function in api.js
 4. call create product function in ProductListScreen
 5. redirect to edit product
+
+35). Edit Product UI
+1. create ProductEditScreen.js
+2. load product data from backend
+3. handle form submit
+4. save product in backend
