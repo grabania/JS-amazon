@@ -324,3 +324,8 @@
 2. load product data from backend
 3. handle form submit
 4. save product in backend
+
+36). Edit Product Backend
+1. handle form submit
+2. create updateProduct
+3. save product in backend
