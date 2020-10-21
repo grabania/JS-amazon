@@ -355,3 +355,13 @@
 4. stop running frontend
 5. npm run build
 6. check localhost:5000 for running website and showing images
+
+39). Delete Product
+1. update ProductListScreen.js
+2. handle delete button
+3. rerender after deletion
+
+40). Show Categories In Sidebar Menu
+1. update ProductListScreen.js
+2. handle delete button
+3. rerender after deletion
