@@ -373,3 +373,8 @@
 4. list them in the screen
 5. show delete and edit button
 6. redirect to order details on edit action
+
+42). Edit Order
+1. if order is payed show deliver button for admin
+2. handle click on deliver button
+3. set state to delivered
