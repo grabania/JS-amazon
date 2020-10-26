@@ -378,3 +378,8 @@
 1. if order is payed show deliver button for admin
 2. handle click on deliver button
 3. set state to delivered
+
+43). Delete Order
+1. update OrderListScreen.js
+2. handle delete button
+3. rerender after deletion
