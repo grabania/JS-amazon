@@ -383,3 +383,11 @@
 1. update OrderListScreen.js
 2. handle delete button
 3. rerender after deletion
+
+44). Show Summary Report in Dashboard
+1. create summary section
+2. style summary
+3. create summary backend
+4. create getSummary in api.js
+5. load data in dashboard screen
+6. show 3 boxes for Users, Orders and Sales
