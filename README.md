@@ -391,3 +391,12 @@
 4. create getSummary in api.js
 5. load data in dashboard screen
 6. show 3 boxes for Users, Orders and Sales
+
+45). Show Chart in Dashboard
+1. import chartist
+2. add chartist css to index.html
+3. create linear chart for daily sales
+4. create pie chart for product categories
+
+46). Publish heroku
+1. publish steps
