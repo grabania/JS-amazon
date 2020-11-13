@@ -2,14 +2,14 @@ export default {
 	products: [
 		{
 			_id: '1',
-			name: 'Full Zip Running Shirts',
+			name: 'Hiskywin Full Zip Running Shirts Thermal Workout',
 			category: 'Shirts',
 			image: '/images/product-1.jpg',
-			price: 60,
+			price: 59,
 			brand: 'Hiskywin',
 			rating: 4.5,
 			numReviews: 10,
-			countInStock: 6
+			countInStock: 6,
 		},
 		{
 			_id: '2',
@@ -19,7 +19,7 @@ export default {
 			price: 70,
 			brand: 'Nike',
 			rating: 5,
-			numReviews: 51
+			numReviews: 51,
 		},
 		{
 			_id: '3',
@@ -29,7 +29,7 @@ export default {
 			price: 59,
 			brand: 'Adidas',
 			rating: 4,
-			numReviews: 45
+			numReviews: 45,
 		},
 		{
 			_id: '4',
@@ -40,7 +40,7 @@ export default {
 			brand: 'Under Armour',
 			rating: 2.5,
 			numReviews: 198,
-			countInStock: 6
+			countInStock: 6,
 		},
 		{
 			_id: '5',
@@ -51,7 +51,7 @@ export default {
 			brand: 'Champion',
 			rating: 3.5,
 			numReviews: 89,
-			countInStock: 6
+			countInStock: 6,
 		},
 		{
 			_id: '6',
@@ -62,7 +62,7 @@ export default {
 			brand: 'Aelfric Eden',
 			rating: 4.5,
 			numReviews: 45,
-			countInStock: 6
-		}
-	]
+			countInStock: 6,
+		},
+	],
 };
