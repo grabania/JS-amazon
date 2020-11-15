@@ -1,0 +1,19 @@
+{
+  "name": "js-amazon",
+  "version": "1.0.0",
+  "description": "1). Create Folder Structure 1. create root folder as js-amazon 2. add frontend and backend folder 3. create src folder in frontend 4. create index.html with heading jsamazon in src 5. run npm init in frontend folder 6. npm install live-server 7. add start command as live-server src --verbose 8. run npm start",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grabania/JS-amazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grabania/JS-amazon/issues"
+  },
+  "homepage": "https://github.com/grabania/JS-amazon#readme"
+}
