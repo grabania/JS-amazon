@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/grabania/JS-amazon/issues"
   },
-  "homepage": "https://github.com/grabania/JS-amazon#readme"
+  "homepage": "https://github.com/grabania/JS-amazon#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
